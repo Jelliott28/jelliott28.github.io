@@ -3568,8 +3568,8 @@ body.is-preload #wrapper.fade-in:before {
 }
 .experience-section {
   align-self: center;
+  justify-content: center;
   list-style-position: inside;
-  margin-left: 2rem;
   width: 50%;
 }
 @media screen and (min-width: 600px) {
